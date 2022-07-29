@@ -1,0 +1,6 @@
+UpperCase.txt
+LowerCase.txt
+SortedLowerCase.txt
+UpperCase.txt
+LowerCase.txt
+SortedLowerCase.txt
